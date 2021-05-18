@@ -4,7 +4,7 @@
  -->
 #
 
-- New Repo
+- New Repos
 
     - [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)
 
