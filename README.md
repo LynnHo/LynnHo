@@ -6,7 +6,7 @@
 
 - New Repos
 
-    - [EigenGAN](https://github.com/LynnHo/EigenGAN-Tensorflow)
+    - [EigenGAN (ICCV 2021)](https://github.com/LynnHo/EigenGAN-Tensorflow)
 
         |  <img src="https://github.com/LynnHo/EigenGAN-Tensorflow/blob/main/pics/attributes_gif_face/celeba_3-4_bangs.gif" width="200">   | <img src="https://github.com/LynnHo/EigenGAN-Tensorflow/blob/main/pics/attributes_gif_face/celeba_4-1_pose.gif" width="200"> | <img src="https://github.com/LynnHo/EigenGAN-Tensorflow/blob/main/pics/attributes_gif_face/celeba_4-4_lighting.gif" width="200"> | <img src="https://github.com/LynnHo/EigenGAN-Tensorflow/blob/main/pics/attributes_gif_face/celeba_4-5_smiling.gif" width="200"> |
         |                                                               :-:                                                                |                                                             :-:                                                              |                                                               :-:                                                                |                                                               :-:                                                               |
