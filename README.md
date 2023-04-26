@@ -1,6 +1,4 @@
-- [Homepage](https://lynnho.github.io/)
-
-- [Code Stats](https://coderstats.net/github/#LynnHo)
+- [Homepage](https://lynnho.github.io/), [Code Stats](https://coderstats.net/github/#LynnHo)
 
 - New Repos
 
