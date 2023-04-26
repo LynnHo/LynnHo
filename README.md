@@ -1,6 +1,6 @@
 - [Homepage](https://lynnho.github.io/), [Code Stats](https://coderstats.net/github/#LynnHo)
 
-- New Repos
+- Recommended Repos
 
     - [EigenGAN (ICCV 2021)](https://github.com/LynnHo/EigenGAN-Tensorflow)
 
