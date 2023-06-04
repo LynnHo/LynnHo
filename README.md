@@ -1,6 +1,5 @@
- ### <p align="center"> [➦ My Homepage](https://lynnho.github.io/) </p>
+## <p align="center"> [➦ My Homepage](https://lynnho.github.io/) </p>
 
-#
 
 ### Recommended Repos
 
