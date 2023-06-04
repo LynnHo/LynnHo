@@ -1,4 +1,4 @@
-[<img src="https://img.shields.io/badge/Click for My%20Homepage-F6FFDE" style="width:auto;height:35px;">](https://lynnho.github.io/)
+ ### <p align="center"> [➦ My Homepage](https://lynnho.github.io/) </p>
 
 #
 
