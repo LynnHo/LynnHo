@@ -1,7 +1,7 @@
 # <p align="center"> [➦ My Homepage](https://lynnho.github.io/) </p>
 
 
-### Recommended Repos
+## Recommended Repos
 
 [EigenGAN (ICCV 2021)](https://github.com/LynnHo/EigenGAN-Tensorflow)
 
