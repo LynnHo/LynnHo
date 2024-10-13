@@ -1,4 +1,5 @@
-# <p align="center"> [➦ My Homepage](https://lynnho.github.io/) </p>
+## Links
+[Homepage](https://lynnho.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=fDTTEaAAAAAJ)
 
 
 ## Recommended Repos
