@@ -21,7 +21,7 @@
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=AttGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/AttGAN-Tensorflow)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=PA-GAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/PA-GAN-Tensorflow)
-&nbsp;&nbsp;
+
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=Facial-Landmarks-of-Face-Datasets&description_lines_count=2" />](https://github.com/LynnHo/Facial-Landmarks-of-Face-Datasets)
 
 
