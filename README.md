@@ -14,6 +14,8 @@
 
 ## Research Works
 
+[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
+&nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyfJASON&repo=ctrlora&description_lines_count=2&show_owner=true" />](https://github.com/xyfJASON/ctrlora)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=EigenGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/EigenGAN-Tensorflow)
