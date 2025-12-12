@@ -8,36 +8,38 @@
 
 ## Tutorials
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=Matrix-Calculus-Tutorial&description_lines_count=2" />](https://github.com/LynnHo/Matrix-Calculus-Tutorial)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=Matrix-Calculus-Tutorial&description_lines_count=2" />](https://github.com/LynnHo/Matrix-Calculus-Tutorial)
 
 
 
 ## Research Works
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=JoPano&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/JoPano)
 &nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyfJASON&repo=ctrlora&description_lines_count=2&show_owner=true" />](https://github.com/xyfJASON/ctrlora)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=EigenGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/EigenGAN-Tensorflow)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=xyfJASON&repo=ctrlora&description_lines_count=2&show_owner=true" />](https://github.com/xyfJASON/ctrlora)
+
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=EigenGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/EigenGAN-Tensorflow)
 &nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=AttGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/AttGAN-Tensorflow)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=AttGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/AttGAN-Tensorflow)
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=PA-GAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/PA-GAN-Tensorflow)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=PA-GAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/PA-GAN-Tensorflow)
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=Facial-Landmarks-of-Face-Datasets&description_lines_count=2" />](https://github.com/LynnHo/Facial-Landmarks-of-Face-Datasets)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=Facial-Landmarks-of-Face-Datasets&description_lines_count=2" />](https://github.com/LynnHo/Facial-Landmarks-of-Face-Datasets)
 
 
 
 ## Reimplementations
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2&description_lines_count=2" />](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2&description_lines_count=2" />](https://github.com/LynnHo/DCGAN-LSGAN-WGAN-GP-DRAGAN-Tensorflow-2)
 &nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=CycleGAN-Tensorflow-2&description_lines_count=2" />](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=CycleGAN-Tensorflow-2&description_lines_count=2" />](https://github.com/LynnHo/CycleGAN-Tensorflow-2)
 
 
 
 ## Tools
 
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=Make-Workspace&description_lines_count=2" />](https://github.com/LynnHo/Make-Workspace)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=Make-Workspace&description_lines_count=2" />](https://github.com/LynnHo/Make-Workspace)
 &nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LynnHo&repo=HD-CelebA-Cropper&description_lines_count=2" />](https://github.com/LynnHo/HD-CelebA-Cropper)
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=HD-CelebA-Cropper&description_lines_count=2" />](https://github.com/LynnHo/HD-CelebA-Cropper)
