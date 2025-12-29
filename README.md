@@ -3,6 +3,8 @@
 [<img src="./assets/homepage.png" width=30>](https://lynnho.github.io/)
 &nbsp;
 [<img src="./assets/google-scholar.png" width=30>](https://scholar.google.com/citations?user=fDTTEaAAAAAJ)
+&nbsp;
+[<img src="./assets/vipl-genun.svg" width=30>](https://github.com/VIPL-GENUN)
 
 
 
