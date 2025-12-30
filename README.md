@@ -4,7 +4,7 @@
 &nbsp;
 [<img src="./assets/google-scholar.png" width=30>](https://scholar.google.com/citations?user=fDTTEaAAAAAJ)
 &nbsp;
-[<img src="./assets/vipl-genun.svg" width=30>](https://github.com/VIPL-GENUN)
+[<img src="./assets/vipl-genun.svg" width=33>](https://github.com/VIPL-GENUN)
 
 
 
