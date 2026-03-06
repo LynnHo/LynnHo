@@ -16,6 +16,8 @@
 
 ## Research Works
 
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=OSI&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/OSI)
+
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=JoPano&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/JoPano)
 &nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
