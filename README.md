@@ -18,16 +18,16 @@
 
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=OSI&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/OSI)
 
-[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=JoPano&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/JoPano)
-&nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=Jodi&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/Jodi)
+&nbsp;&nbsp;
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=VIPL-GENUN&repo=JoPano&description_lines_count=2&show_owner=true" />](https://github.com/VIPL-GENUN/JoPano)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=xyfJASON&repo=ctrlora&description_lines_count=2&show_owner=true" />](https://github.com/xyfJASON/ctrlora)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=EigenGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/EigenGAN-Tensorflow)
-&nbsp;&nbsp;
-[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=AttGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/AttGAN-Tensorflow)
 
+[<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=AttGAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/AttGAN-Tensorflow)
+&nbsp;&nbsp;
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=PA-GAN-Tensorflow&description_lines_count=2" />](https://github.com/LynnHo/PA-GAN-Tensorflow)
 
 [<img width="48.5%" align="center" src="https://github-readme-stats-lynn-ho.vercel.app/api/pin/?username=LynnHo&repo=Facial-Landmarks-of-Face-Datasets&description_lines_count=2" />](https://github.com/LynnHo/Facial-Landmarks-of-Face-Datasets)
